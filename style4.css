@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Jersey+10&family=NTR&family=Pacifico&display=swap');
+*{
+    padding: 5px;
+    margin: 5px;
+    font-family: "Abel", sans-serif;
+}
+.container{
+    width: 900px;
+    background-color: rgba(236, 183, 195, 0.466);
+    margin-top: 3;
+    margin-right: auto;
+    margin-bottom: 1;
+    margin-left: auto;
+    border-radius: 20px;
+    border: 5px solid rgb(83, 82, 153);
+    box-shadow: 0 0 25px rgb(60, 46, 141);
+}
